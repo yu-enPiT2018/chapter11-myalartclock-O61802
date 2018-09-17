@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.example.enpit_p12.myalarmclock"
+        applicationId "com.example.enpit_p31.myalarmclock"
         minSdkVersion 16
         targetSdkVersion 27
         versionCode 1
